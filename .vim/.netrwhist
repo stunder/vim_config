@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/eric/code/salt/salt-platform/pillar/hart-t-bone'
+let g:netrw_dirhist_2='/Users/eric/code/salt/salt-platform/pillar/hart-zorak'
+let g:netrw_dirhist_3='/Users/eric/code/salt/salt-tools/pillar/birdman-dev'
+let g:netrw_dirhist_4='/Users/eric/code/salt/salt-tools/salt/nginx'
+let g:netrw_dirhist_5='/Users/eric/code/salt/salt-tools/pillar/git-stats'
